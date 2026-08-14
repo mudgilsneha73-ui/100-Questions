@@ -5,4 +5,4 @@ count = 0
 while n != 0:
     n = n // 10
     count += 1
-print(f"Number of digits in {n} = {count}")
+print("Number of digits" , count)
