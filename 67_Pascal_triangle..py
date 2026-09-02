@@ -13,4 +13,5 @@ for i in range(n):
 
     new_row.append(1)
     row = new_row
+    
 

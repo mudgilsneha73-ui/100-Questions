@@ -17,4 +17,4 @@ power  = 10 ** count
 if n % power == original:
     print("Automorphic number ")
 else:
-    print("Not Automorphic number")
+    print("Not Automorphic number")                                

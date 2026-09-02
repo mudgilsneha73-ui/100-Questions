@@ -2,7 +2,7 @@
 sentence = input("Enter a sentence: ")
 count = 0
 word = sentence.split()
-
+       
 for i in word:
     count += 1
 

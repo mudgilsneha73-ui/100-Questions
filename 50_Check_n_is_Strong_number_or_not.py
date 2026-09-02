@@ -19,4 +19,4 @@ while n != 0:
 if total == original:
     print(f"{original} is a Strong Number.")
 else:
-    print(f"{original} is not a Strong Number.")
+    print(f"{original} is not a Strong Number.") 

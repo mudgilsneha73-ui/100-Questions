@@ -5,10 +5,11 @@ consonants = 0
 vowels = {"a","e","i","o","u"}
 
 for i in string:
-    if i in vowels:
+    if i.lower() in vowels:
         vowel += 1
 
-    else:
+    elif i.isalpha:
         consonants += 1
+    
 
 print(f"Vowel = {vowel} and Consonants = {consonants}")
