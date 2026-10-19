@@ -13,5 +13,6 @@ def average(*nums):
 result = average(2,4,6)
 print(result)
 
-print(average())
+print(
+average())
 
